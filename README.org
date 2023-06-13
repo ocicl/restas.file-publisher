@@ -1,0 +1,10 @@
+* restas.file-publisher
+
+A restas module to publish static files
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kevinlynx/restas.file-publisher.git   |
+| commit  | b216df0  |
+| systems | restas.file-publisher |
+|---------+-------------------------------------------|
+
